@@ -1,0 +1,249 @@
+   li
+   {
+      display: inline;
+      float: right;
+      color: black;
+      width: 100px;
+      font-size: 20px;
+      margin-right: 10px;
+      text-decoration: none;
+   }
+   .img2_top
+   {
+      float: right;
+      width: 350px;
+      height: 350px;
+      margin-top: 100px;
+      margin-right: -200px;
+   } 
+   h1
+   {
+      font-size: 55px;
+   }
+   input
+   {
+      background-color:white;
+      color:black;
+      border-color: black;
+      width: 200px;
+      height: 40px;
+      border-style: solid;
+      border-radius: 2px;
+      border-width: 1px;
+   }
+   .start_button
+   {
+      background-color:  rgb(50, 50, 185);
+      color: rgb(250, 237, 217);
+      border: none;
+      width: 100px;
+      height: 43.1px;
+      margin-left: -4px;
+   }
+   h2
+   {
+      display: flex;
+      justify-content: center;
+      font-size: 33px;
+   }
+   #global
+   {
+      border: 1px;
+      border-style: solid;
+      border-color: rgb(222, 237, 247);
+      background-color: rgb(222, 237, 247);
+   }
+   #contenu
+   {
+      border: 1px;
+      border-style: solid;
+      border-color: rgb(222, 237, 247);
+      background-color: rgb(222, 237, 247);
+      padding: 5px;
+      margin: 5px;
+      min-height: 400px;
+   }
+   #l1
+   {
+      border: 1px;
+      border-style: solid;
+      background-color: white;
+      border-color: white;
+      margin-left: 100px;
+      margin-right: 150px;
+      width: 250px;
+      min-height: 250px;
+      float: left;
+      overflow: auto;
+      
+   }
+
+   #l2
+   {
+     border:1px;
+     border-style: solid;
+     background-color:white;
+     border-color:white ;
+     width: 250px;
+     min-height: 250px;
+     margin-left: 100px;
+     margin-right: 150px;
+     overflow: auto;
+     float: middle;
+
+   }
+   #l3
+   {
+      border: 1px;
+      border-style: solid;
+      background-color: white;
+      border-color: white;
+      width: 250px;
+      min-height: 250px;
+      overflow: auto;
+      margin-right: 150px;
+      margin-top: -250px;
+      float: right;
+
+   }
+   img
+   {
+      float: left;
+      height: 100px;
+      width: 100px;
+      margin-top: 12px;
+      margin-right:5px ;
+   }
+   h3
+   {
+      font-size: 23px;
+      display: flex;
+      justify-content: center;
+   }
+   #texte2
+   {
+      display: flex;
+      justify-content: center;  
+      font-size: 12px;
+      margin-top: -25px;
+      
+   }
+   #link
+   {
+      display: flex;
+      justify-content: center;  
+      font-size: 12px;
+      margin-top: -5px;
+      margin-right: 150px;
+   }
+   #global2
+   {
+      border: 1px;
+      border-style: solid;
+      border-color: white;
+      background-color:white;
+   }
+   #texto
+   {
+      border: 1px;
+      border-style: solid;
+      background-color:white;
+      border-color:white;
+      margin-left: 100px;
+      margin-right: 150px;
+      width: 400px;
+      min-height: 400px;
+      float: left;
+      overflow: auto;
+      margin-top: 100px;
+   }
+   #imago
+   {
+     border:1px;
+     border-style: solid;
+     background-color: rgb(222, 237, 247);
+     border-color : rgb(222, 237, 247) ;
+     width: 400px;
+     min-height: 400px;
+     margin-left: 100px;
+     margin-right: 170px;
+     overflow: auto;
+     float: right;
+     margin-top: 100px;
+   }
+  .dg_img
+   {
+      width: 370px;
+      height: 370px;
+      float: middle;
+      margin-left: 10px;
+   }
+  #global3
+  {
+      border: 1px;
+      border-style: solid;
+      border-color: white;
+      background-color:white;
+   }
+   #imagee
+   {
+      border:1px;
+      border-style: solid;
+      background-color:white;
+      border-color :white ;
+      width: 400px;
+      min-height: 400px;
+      margin-left: 100px;
+      margin-right: 170px;
+      overflow: auto;
+      float: right;
+      margin-top: 100px;
+   }
+   #textee
+   {
+      border: 1px;
+      border-style: solid;
+      background-color:rgb(222, 237, 247);
+      border-color:rgb(222, 237, 247);
+      margin-left: 100px;
+      margin-right: 150px;
+      width: 400px;
+      min-height: 400px;
+      float: left;
+      overflow: auto;
+      margin-top: 100px;  
+   }
+   .dg2
+   {
+      width: 370px;
+      height: 370px;
+      float: middle;
+      margin-left: 10px;
+   }
+   #p0
+   {
+      border: 1px;
+      border-style: solid;
+      border-color:white;
+      background-color:white;
+   }
+   #p1
+   {
+    font-size: 45px;
+    text-align: center;
+    justify-content: center;  
+    
+   }
+   #p2
+   {
+      font-size: 17px;
+      text-align: center;
+      margin-top: -25px;
+      justify-content: center;  
+   }
+   .introd
+   {
+      width: 750px;
+      height: 500px;
+     margin-left: 300px;
+   }
