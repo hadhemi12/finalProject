@@ -5,7 +5,7 @@
       color: black;
       width: 100px;
       font-size: 20px;
-      margin-right: 10px;
+      margin-right: 20px;
       text-decoration: none;
    }
    .img2_top
@@ -14,10 +14,23 @@
       width: 350px;
       height: 350px;
       margin-top: 100px;
-      margin-right: -200px;
+      margin-right: -100px;
    } 
+   #present
+   {
+      margin-left: 70px;
+   }
+   .j1
+   {
+      margin-left: 140px;  
+   }
+   .j4
+   {
+      margin-left: 14s0px;
+   }
    h1
    {
+      margin-left: 70px;
       font-size: 55px;
    }
    input
@@ -30,6 +43,7 @@
       border-style: solid;
       border-radius: 2px;
       border-width: 1px;
+      margin-left: 140px;
    }
    .start_button
    {
