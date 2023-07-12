@@ -313,3 +313,24 @@
    {
       margin-left:30px ;
    }
+   #tit
+   {
+      font-size: 30px;
+      margin-top: 25px;
+      color: black;
+      
+   }
+   #txt
+   {
+      font-size: 15px;
+   }
+   #imgg
+   {
+      width: 600px;
+      height:500px;
+   }
+   #ressources
+   {
+      font-size: 15px;
+
+   }
